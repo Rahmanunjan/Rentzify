@@ -1,0 +1,27 @@
+{
+  "name": "rentzify",
+  "version": "1.0.0",
+  "description": "Vault Smart Contract for securing and monetising rent deposits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Vault",
+    "Smart",
+    "Contract",
+    "Secure",
+    "Monetise"
+  ],
+  "author": "Adegbenga Ogungbeje",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.6",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "ethers": "^6.13.1",
+    "hardhat": "^2.22.6"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
