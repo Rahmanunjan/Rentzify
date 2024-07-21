@@ -6,7 +6,7 @@ Rentzify is using an ERC-4626 solidity smart contract deployed on the Moonbeam p
 1. 4 out of 6 signatories sign the transaction.
 2. Yield is earned on part or whole of the deposits. Borrowers pay 5% of their stake to the renters. Landlords receive 20% of the yield from the renters. The platform takes 2.5 %.
 
-Non tenants can utilish flash loans, yield farming by staking an equivalent token into the Vault. Hence, tenants and landlords will be recipientsof the yield bearing vault. 
+Non tenants can utilish flash loans, yield farming by staking an equivalent token into the Vault. Hence, tenants and landlords will be recipients of the yield bearing vault. 
 
 ### PROBLEM
 1. Landlords are charging exorbitant rent deposits.
