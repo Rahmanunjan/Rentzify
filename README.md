@@ -51,7 +51,7 @@ Canva link: https://www.canva.com/design/DAGLi002DzU/rNmPoQH7GDQlNW_swdfMxQ/edit
 2. Ran out of test tokens
 3. Buggy Front end
 4. Web3.js wouldnt integrate with vault smart contract
-5. 
+   
 
 ### FUTURE INTEGRATION
 1. Web3 login (TBD)
@@ -60,3 +60,7 @@ Canva link: https://www.canva.com/design/DAGLi002DzU/rNmPoQH7GDQlNW_swdfMxQ/edit
 4. CCPP Chainlink for Blockchain Interoperability.
 5. Bug Bounty.
 6. AI generated Recommender system for reputable tenants and landlords (Proof of reputation)
+
+### RESOURCES
+1. https://docs.google.com/document/d/1w-SvSY5ILF0CTrq9y7InEKUHLj1bCQeS9h7mnJsctZc/edit
+2. 
