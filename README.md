@@ -46,10 +46,12 @@ Canva link: https://www.canva.com/design/DAGLi002DzU/rNmPoQH7GDQlNW_swdfMxQ/edit
 8. Smart contract audit (2 - 4 weeks)
 9. MVP launch (after implementations from smart contract audit, 2 weeks)
 
-### PROBLEMS ENCOUNTERED
+### PROBLEMS ENCOUNTERED DURING BUILDING
 1. Unable to obtain Metamask balance through web3.js
 2. Ran out of test tokens
 3. Buggy Front end
+4. Web3.js wouldnt integrate with vault smart contract
+5. 
 
 ### FUTURE INTEGRATION
 1. Web3 login (TBD)
