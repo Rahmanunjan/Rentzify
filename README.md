@@ -1,4 +1,6 @@
 # RENTZIFY - THE FIRST DECENTRALISED RENT DEPOSIT DAPP!
+-------------------------------------------------------
+-------------------------------------------------------
 A DeFi platform built on Moonbeam securing and monetising rent deposits. 
 ----
 ### SUMMARY
