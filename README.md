@@ -58,14 +58,14 @@ Canva link: https://www.canva.com/design/DAGLi002DzU/rNmPoQH7GDQlNW_swdfMxQ/edit
 ----
 
 ### FUTURE INTEGRATION
-1. Web3 login (TBD)
-2. Account Abstraction Wallets.
-3. Customised Parachains for different type of properties (commercial, airbnb , leases etc)
-4. CCPP Chainlink for Blockchain Interoperability.
-5. Bug Bounty.
-6. AI generated Recommender system for reputable tenants and landlords (Proof of reputation)
++ Web3 login (TBD)
++ Account Abstraction Wallets.
++ Customised Parachains for different type of properties (commercial, airbnb , leases etc)
++ CCIP(Chainlink Cross-Chain Interoperability Protocol) Chainlink for Blockchain Interoperability.
++ Bug Bounty.
++ AI generated Recommender system for reputable tenants and landlords (Proof of reputation)
 ----
 
 ### RESOURCES
-1. https://docs.google.com/document/d/1w-SvSY5ILF0CTrq9y7InEKUHLj1bCQeS9h7mnJsctZc/edit
-2. 
++ [https://docs.google.com/document/d/1w-SvSY5ILF0CTrq9y7InEKUHLj1bCQeS9h7mnJsctZc/edit]
+ 
