@@ -7,11 +7,11 @@ A DeFi platform built on Moonbeam securing and monetising rent deposits.
 ----
 ### SUMMARY
 **Rentzify** is using an **ERC-4626** solidity smart contract deployed on the Moonbeam parachain to make rent deposits secure. The security is via use of a decentralised platform. Additionally, the use of a smart contract and a Multisig controls access to rent deposits in the vault. Deposits will be added to the vault and a native token used to accord shares to *renters* wallets. Also, a **Multisig Wallet** will set up signatories to the deposited tokens with nominees from *renters* and *Landlords* ( 3 each). Deposits are withdrawn in the following conditions:
-1. 4 out of 6 signatories sign the transaction.
-2. Yield is earned on part or whole of the deposits. Borrowers pay 5% of their stake to the renters. *Landlords* receive 20% of the yield from the *renters*. The platform takes 2.5 %.
-3. Renters end their tenancy.
-4. The DAO has given a final decision on an arbitrated case.
-5. Individuals are banned/banished from the vault.
++ 4 out of 6 signatories sign the transaction.
++ Yield is earned on part or whole of the deposits. Borrowers pay 5% of their stake to the renters. *Landlords* receive 20% of the yield from the *renters*. The platform takes 2.5 %.
++ Renters end their tenancy.
++ The DAO has given a final decision on an arbitrated case.
++ Individuals are banned/banished from the vault.
 
 *Non tenants* can utilish flash loans, yield farming and other DeFi tools to stake an equivalent token into the Vault. Hence, *tenants* and *landlords* will be recipients of the yield bearing vault. 
 ----
