@@ -77,13 +77,15 @@ Canva link: https://www.canva.com/design/DAGLi002DzU/rNmPoQH7GDQlNW_swdfMxQ/edit
 4. Web3.js wouldnt integrate with vault smart contract
 ----
 
-### FUTURE INTEGRATION
-+ Web3 login (TBD)
-+ Account Abstraction Wallets.
-+ Customised Parachains for different type of properties (commercial, airbnb , leases etc)
-+ CCIP(Chainlink Cross-Chain Interoperability Protocol) Chainlink for Blockchain Interoperability.
-+ Bug Bounty.
-+ AI generated Recommender system for reputable tenants and landlords (Proof of reputation)
+### TECHNOLOGIES
++ Web3 login (TBD) - for secure identity
++ Account Abstraction Wallets - enable users implement tools of ERC-4337 (paymaster, userops, Bundler etc)
++ Moonbeam - Customised Parachains for different type of properties (commercial, airbnb , leases etc) and EVM implementation on Polkadot
++ CCIP(Chainlink Cross-Chain Interoperability Protocol) Chainlink for Blockchain Interoperability - Allows cross chain operations and oracle implementation.
++ AI generated Recommender system for reputable tenants and landlords (Proof of reputation) - Allows governance of users and suggestions. 
+----
+
+### COLLABORATORS
 ----
 
 ### RESOURCES
