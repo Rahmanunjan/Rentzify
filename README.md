@@ -34,7 +34,13 @@ A DeFi platform built on Moonbeam securing and monetising rent deposits.
 3. Renters will make their crypto rent deposit payment to the vault. 
 4. Renters will receive a token denoting their number of shares.
 5. Landlords will connect with their wallet, assign their nominees (Renters likewise)
+
+### FEATURES
 ----
+
+### HOW TO USE
+----
+
 ### PRESENTATION/PITCH
 Canva link: https://www.canva.com/design/DAGLi002DzU/rNmPoQH7GDQlNW_swdfMxQ/edit?utm_content=DAGLi002DzU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ----
