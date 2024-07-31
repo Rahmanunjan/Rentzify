@@ -36,9 +36,23 @@ A DeFi platform built on Moonbeam securing and monetising rent deposits.
 5. Landlords will connect with their wallet, assign their nominees (Renters likewise)
 
 ### FEATURES
++ Front end enabling users make a rent deposit to Landlord
++ Wallet Connection (ERC-4337 or smart contract wallet compatibility) for renters and Landlords
++ Vault smart contract in Solidity implementing ERC-4626
++ Account abstraction SDK (Biconomy) to onboard new web3 users (implementing a paymaster)
++ TBD login to preserve identity
++ Aave implementation of GHO stable coin
++ CCIP Chainlink integration to facilitate cross chain interoperability
++ L2 integration using Cartesi to reduce gas cost
++ SWARM integration to store data
 ----
 
 ### HOW TO USE
++ Renters will connect their wallets to the front end
++ Landlord and Renters will pay fee to use app
++ Rent deposits will be paid by crypto and deposited from wallet to the vault
++ Renters will choose from front end what percentage landlord can be paid
+  
 ----
 
 ### PRESENTATION/PITCH
