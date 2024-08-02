@@ -1,4 +1,4 @@
-# RENTZIFY - THE FIRST DECENTRALISED RENT DEPOSIT DAPP!
+# ULTRARENTZ - THE FIRST DECENTRALISED RENT DEPOSIT DAPP!
 
 -------------------------------------------------------
 -------------------------------------------------------
